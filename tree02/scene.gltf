@@ -1,0 +1,289 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        -49.862800598144531,
+        13.809900283813477,
+        6.3772001266479492
+      ],
+      "min": [
+        -53.870399475097656,
+        8.8767995834350586,
+        3.2295000553131104
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2880,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.9776991605758667,
+        0.9776991605758667,
+        0.9776991605758667
+      ],
+      "min": [
+        -0.9776991605758667,
+        -0.9776991605758667,
+        -0.9776991605758667
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.99886655807495117,
+        0.99886655807495117,
+        0.81649661064147949,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.81895256042480469,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 720,
+      "max": [
+        239
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5760,
+      "componentType": 5126,
+      "count": 695,
+      "max": [
+        -51.109298706054688,
+        12.147600173950195,
+        3.9342000484466553
+      ],
+      "min": [
+        -52.908100128173828,
+        10.127499580383301,
+        0.32570001482963562
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14100,
+      "componentType": 5126,
+      "count": 695,
+      "max": [
+        0.99899154901504517,
+        0.99195587635040283,
+        0.97131341695785522
+      ],
+      "min": [
+        -0.99899154901504517,
+        -0.99377274513244629,
+        -0.93105936050415039
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3840,
+      "componentType": 5126,
+      "count": 695,
+      "max": [
+        0.99501311779022217,
+        0.99999994039535522,
+        0.98900365829467773,
+        1
+      ],
+      "min": [
+        -0.99423801898956299,
+        -1,
+        -0.98708170652389526,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2880,
+      "componentType": 5125,
+      "count": 3180,
+      "max": [
+        694
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "DioMartins (https://sketchfab.com/diodesign)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/87b3e575b98743d295fb8800cc81030a",
+      "title": "Arvore - Lowpoly Tree Cartoon"
+    },
+    "generator": "Sketchfab-3.18.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 15600,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22440,
+      "byteOffset": 15600,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14960,
+      "byteOffset": 38040,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 53000,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "wire_088177027",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.34510000000000002,
+          0.69410000000000005,
+          0.10589999999999999,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.91675550189999999
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "wire_135059008",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.52939999999999998,
+          0.23139999999999999,
+          0.031399999999999997,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.91675550189999999
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "arvore_lowpoly.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
